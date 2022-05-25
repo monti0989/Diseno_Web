@@ -195,30 +195,22 @@ Preguntas:
 19. Los comentarios HTML comienzan con ![image](https://user-images.githubusercontent.com/91554777/164576568-aa1ae841-a85f-486b-b286-be51bfc8cd4e.png) (valor 0.24)
   
         a) Verdadero
-        b) Falso
 
 20.Los elementos de bloque normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
-        a) Verdadero
         b) Falso
   
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
         a) title
-        b) head
-        c) meta
   
 22.¿Qué atributo HTML especifica un texto alternativo para una imagen, si la imagen no se puede mostrar? (valor 0.24)
 
-        a) longdesc
-        b) src
         c) alt
-        d) title
   
 23. ¿Qué tipo de documento es correcto para HTML5? (valor 0.24)
   
         a) <!DOCTYPE html>
-        b) <!DOCTYPE HTML5>
   
 c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5/strict.dtd\">
   
