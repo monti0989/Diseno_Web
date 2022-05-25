@@ -72,6 +72,11 @@ Preguntas:
 
 1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
 
+etiqueta= es el mensaje a mostrar en pagina
+
+elementos = son las herramientas que se le van añadir a la etiqueta
+
+
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
 
         a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
