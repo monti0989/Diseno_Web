@@ -116,6 +116,11 @@ los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
     
  ![image](https://user-images.githubusercontent.com/91554777/164572088-a10117ae-7343-4ad9-9d51-48ae5beb5dbb.png)
     
+    
+    ![image](https://user-images.githubusercontent.com/103137328/170388344-c418de14-8541-475c-a2f7-9075e49240b4.png)
+
+
+
 ## 4. LENGUAJE HTML
 
 Objetivo: Verificar el dominio de los elementos básicos en html para la realización de la
