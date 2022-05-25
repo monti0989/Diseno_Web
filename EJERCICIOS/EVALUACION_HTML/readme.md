@@ -6,16 +6,28 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
+2. 
+R= un conjunto de textos relacionados entre si para seguir obteniendo comunicacion
 
 2. ¿Qué es la hipermedia? (valor 1.0)
 
+R= es la relacion que se tiene entra las imagenes, sonidos, textos, videos
+
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
+
+R= tienen un orden jerárquico y así desempeñar su tarea corrspondiente
 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
 
+R= el orden de estructura 
+
 5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
 
+R= traducir los datos enviados mediante el internet a imagenes,sonidos,videos,textos
+
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
+
+R= java#, css, html
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
@@ -26,13 +38,23 @@ Preguntas:
 
 1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
 
+R=copiar, pegar, cortar, subrayar, resaltar
+
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
+
+R=paint, word, bolck de notas
 
 3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
 
+R=.html
+
 4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
 
+R= css
+
 5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
+
+R=jpg, pgn, jpeg, gif
 
 6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
@@ -40,7 +62,7 @@ a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
 referente a los estilos (CSS), etc. (valor 1.0)
 
         a) Cierto
-        b) Falso
+       
 
 ## 3. ESTRUCTURA BÁSICA DE UN DOCUMENTO HTML
 
@@ -51,41 +73,37 @@ Preguntas:
 1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
 
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
-a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
-etiqueta
 
         a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
-        b) La nueva etiqueta <semantic> contiene información sobre cómo interpretar el
-        contenido de la página
-        c) Todas las etiquetas ahora tienen un atributo llamado "semántico" que contiene
-        información sobre el contenido de la etiqueta.
-        d) Es solo una palabra de moda sin sentido.
+        
   
 3. ¿Qué elemento se utiliza para diferenciar el contenido de una página web del
 material en el que se encuentra (como una barra lateral)? (valor 0.3)
   
-        a) header
-        b) footer
-        c) nav
         d) aside
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
   
-        a) mark
-        b) article
-        c) time
         d) span
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
   
-Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
+header   = encabezado de la pagina
+main     = parte central donde se desarolla contenido la pagina
+body     = cuerpo de la estrutura
+footer   = pie de pagina
+articule = tiene un contenido
+section  = seccion independiente
+
+6. Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
   
            
-        1. <img "birthday.jpg">
-        2. <i>Congratulations!<i>
-        3. <a href="file.html">Enlace de texto</a href="file.html">
-        4. <p>Esto es un párrafo<\p>
+        1. <img "birthday.jpg">     R= falta el src que la direccion en donde se encuentra la imagen seria así <img src="birthday.jpg"> 
+        2. <i>Congratulations!<i>   R=le hace falta el cierra de la etiqueta </i>
+        3. <a href="file.html">Enlace de texto</a href="file.html"> al final solo que da escrito </a>   
+              R=ya no se necesita poner </a href="file.html"> por que ya lo esta direccionando al principio
+        4. <p>Esto es un párrafo<\p>   R=esta mal escrito el cierre de parrafo </p> 
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
@@ -104,27 +122,18 @@ Preguntas:
     
 1. ¿Qué significa HTML? (valor 0.24)
     
-        a) Home Tool Markup Language
-        b) Hyperlinks and Text Markup Language
         c) Hyper Text Markup Language
     
 2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
     
-        a) heading
-        b) hed
-        c) h6
         d) h1
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
-
-        a) lb
+    
         b) br
-        c) break
-
+        
 4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24)
 
-        a) <background>yellow</background>
-        b) <body bg="yellow">
         c) <body style="background-color:yellow;">
     
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
@@ -142,24 +151,15 @@ Preguntas:
 
 7. ¿Cuál es el HTML correcto para crear un hipervínculo? (valor 0.24)
 
-        a) <a>https://adip.cdmx.gob.mx/</a>
-        b) <a name="https://adip.cdmx.gob.mx">ADIP</a>
         c) <a href="https://adip.cdmx.gob.mx">ADIP</a>
-        d) <a url=”https://adip.cdmx.gob.mx">ADIP</a>
-  
-  
+         
 8. ¿Cómo puedes abrir un enlace en una nueva pestaña/ventana del navegador? (valor 0.24)
   
-        a) <a href="url" target="new">
         b) <a href="url" target="_blank">
-        c) <a href="url" new>
-  
+          
 9. ¿Cuáles de estos elementos son todos elementos de table? (valor 0.24)
   
-          a) thead body  tr
-          b) table  tr  tt
-          c) table  head  tfoot
-          d) table  tr  td
+        d) table  tr  td
   
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
@@ -259,8 +259,6 @@ c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5
   
 25. ¿Cuál es el elemento HTML correcto para reproducir archivos de video? (valor 0.24)
   
-        a) video
-        b) media
         c) movie
   
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la maquetación en código html, valor 18)
