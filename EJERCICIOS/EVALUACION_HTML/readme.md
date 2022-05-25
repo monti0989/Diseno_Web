@@ -138,17 +138,12 @@ Preguntas:
     
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
     
-        a) b
-        b) strong
-        c) i
-        d) important
+        d) strong
     
 6. Elija el elemento HTML correcto para definir el texto enfatizado (valor 0.24)
-    
-        a) italic
+  
         b) em
-        c) i
-
+       
 7. ¿Cuál es el HTML correcto para crear un hipervínculo? (valor 0.24)
 
         c) <a href="https://adip.cdmx.gob.mx">ADIP</a>
@@ -164,62 +159,38 @@ Preguntas:
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
           a) Verdadero
-          b) Falso
-    
-  
+         
 11. ¿Cómo puedes hacer una lista numerada? (valor 0.24)
-  
-          a) list
-          b) ol
-          c) ul
-          d) dl
+ 
+         b) ol
   
 12. ¿Cómo se puede hacer una lista con viñetas? (valor 0.24)
   
-          a) ol
           b) ul
-          c) list
-          d) dl
-  
+         
 13. ¿Cuál es el HTML correcto para hacer una casilla de verificación (checkbox )? (valor 0.24)
   
-          a) input type="check"
-          b) check
-          c) checkbox
           d) <input type="checkbox">  
 
 14. ¿Cuál es el HTML correcto para crear un campo de entrada de texto? (valor 0.24) 
   
-          a) textfield
-          b) textinput type="text"
-          c) input type="textfield"
-          d) input type="text"
+          c) <input type="text">
   
 15. ¿Cuál es el HTML correcto para hacer una lista desplegable? (valor 0.24)
   
-          a) list
-          b) input type="list"
-          c) input type="dropdown"
           d) select
   
 16. ¿Cuál es el HTML correcto para hacer un área de texto? (valor 0.24)
   
-          a) input type="textbox"
           b) input type="textarea"
-          c) textarea
-  
+          
 17. ¿Cuál es el HTML correcto para insertar una imagen? (valor 0.24
   
           a) <img src="image.gif" alt="Mi imagen">
-          b) <img href="image.gif" alt="Mi imagen">
-          c) <img alt="Mi imagen">image.gif</img>
-          d) <image src="image.gif" alt="Mi imagen">
   
 18. ¿Cuál es el HTML correcto para insertar una imagen de fondo? (valor 0.24)
-  
-          a) <body bg="background.gif">
+ 
           b) <body style="background-image:url(background.gif)">
-          c) <background img="background.gif">
   
 19. Los comentarios HTML comienzan con ![image](https://user-images.githubusercontent.com/91554777/164576568-aa1ae841-a85f-486b-b286-be51bfc8cd4e.png) (valor 0.24)
   
