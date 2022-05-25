@@ -6,7 +6,7 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
-2. 
+  
 R= un conjunto de textos relacionados entre si para seguir obteniendo comunicacion
 
 2. ¿Qué es la hipermedia? (valor 1.0)
