@@ -247,3 +247,60 @@ extensión .html
 ● No es necesario que incluyas los estilos (CSS) para cada elemento en esta
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
+
+
+
+
+
+
+                            <!DOCTYPE html>
+                    <html lang="en">
+                    <head>
+                        <meta charset="UTF-8">
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                        <meta name="viewport" content="width=
+
+                        , initial-scale=1.0">
+                        <title>Document</title>
+                    </head>
+                    <body>
+
+
+                    <header>
+                           <h1>ENCABEZADO NIVEL1</h1>
+                           <nav>    
+                                <ul>
+                                        <li><a href="">ENLACE 1 </a></li>
+                                        <li><a href="">ENLACE 2 </a></li>
+                                        <li><a href="">ENLACE 3 </a></li>
+                                        <li><a href="">ENLACE 4 </a></li>
+                                </ul>
+                            </nav>
+
+                    </header>
+
+                     <main>    
+                                <section>
+                                    <h3>encabezado nivel 2</h3>
+                                            <p>aqui escriba el texto del primer parrafo</p><br>
+                                          <p>Aqui escriba el texto del segundo parrafo</p>
+                                      </section>
+                                <aside>
+                                     <h3>Apartado</h3><br>
+                                           <form>
+                                             Elije una opcion:<br>
+                                                <label><input type="radio" id="opcion 1" name="opcion" value="opcion1"/>opcion 1<br></label>
+                                                <label><input type="radio" id="opcion 2" name="opcion" value="opcion2"/>opcion 2<br></label>
+                                                <label><input type="radio" id="opcion 3" name="opcion" value="opcion3"/>opcion 3<br></label>
+                                                <label><input type="submit" value="enviar"></label>
+                                           </form>
+                                </aside>
+
+                    </main>
+                                     <footer>
+
+                                            <p>Seccion de informacion de contacto,derechos de autor, etc.</p>
+                                    </footer>
+
+                       </body>
+                    </html>
