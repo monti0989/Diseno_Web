@@ -149,10 +149,98 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
           INGRESA AQUI EL CÓDIGO HTML
           
           
-          
+          <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css\estil.css">
+    <title>EXAMEN</title>
+</head>
+            <body>
+                    <head>
+                        <img src="E:\EXAMEN CCS\IMG\logo.svg"><hr>
+                                <nav>
+                                        <ul>
+                                                    <li>Residentes</li>
+                                                    <li>Negocios</li>
+                                                    <li>Visitantes</li>  
+                                                    <li>Gobierno</li> 
+                                        </ul>
+                                </nav>
+                             
+
+                    </head>
+                    
+
+                            <main>
+                                    <div class="logo">
+                                        <img src="E:\EXAMEN CCS\IMG\CDMX.png" alt="">
+                                        
+                                            <div class="texto">
+
+                                                    <img src="E:\EXAMEN CCS\IMG\hero-vector.svg" alt="">
+
+                                            </div>
+
+
+                                     </div>
+
+                            </main>
+    
+
+
+                            <footer>
+
+                                    <h3>¿Quien se puede inscribir?</h3>
+
+                                        <p>Cualquier persona que quiera aprender codigo y cuente con 4-8 horas disponibles a la semana.</p>
+                                        <br>
+                                        <p>"Menores de edad deberan entrar a las instalaciones acompañados de un adulto.</p>
+
+
+                            </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </body>
+
+</html>
           
           INGRESA AQUI EL CSS
           
+          
+          li{
+    list-style: none;
+    margin-left: 40px;
+    color: rgb(6, 209, 23);
+    
+  
+    padding: 10px;
+    
+
+
+}
+
+
+nav{
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
           
           
  Ingresa el link a tu página del proyecto final
