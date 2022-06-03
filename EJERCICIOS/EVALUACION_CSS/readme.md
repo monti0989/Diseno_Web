@@ -121,6 +121,9 @@ maquetación en código html y css, valor 36)
 
 ![image](https://user-images.githubusercontent.com/91554777/166742177-b3cc2bfc-7768-42e4-b4f0-dcc2a1473935.png)
 
+
+![image](https://user-images.githubusercontent.com/103137328/171925651-651bfb10-d8cd-4f1f-9ff6-7bccf41f9aa2.png)
+
 ● Este ejercicio lo deberás realizar con las etiquetas de HTML5, haciendo uso de los elementos semánticos de HTML5.
 
 ● Deberás, en un bloc de notas, colocar todo el código html5 y guárdalo con extensión .html
