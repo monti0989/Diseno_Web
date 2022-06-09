@@ -221,28 +221,96 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
           INGRESA AQUI EL CSS
           
           
-          li{
-    list-style: none;
-    margin-left: 40px;
-    color: rgb(6, 209, 23);
-    
-  
-    padding: 10px;
-    
+         *{
+    padding: 0;
+    margin: 0;
+}
 
+header{
+    height: 100vh;
+    background: url(https://th.bing.com/th/id/R.7049f96a7ab04d4ffe56f6b7a180dd31?rik=KXuBl64z1lEW%2fw&riu=http%3a%2f%2fwww.solofondos.com%2fwp-content%2fuploads%2f2015%2f11%2fFondos-para-paginas-web-profesionales-3D.jpg&ehk=lWv3MXhrf5twGIElvqeFkf1879q3Y4fb8nZFCm8U5hQ%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 50px;
+    
+}
 
+.logo{
+    font-size: 100px;
+    text-shadow: 5px 5px 5px magenta;
+    color: rgb(4, 0, 255);
+    
+    
 }
 
 
 nav{
 
     display: flex;
-    justify-content: space-between;
-
+    justify-content: space-between; 
+    
 }
 
-          
-          
- Ingresa el link a tu página del proyecto final
- 
- file:///E:/EXAMEN%20CCS/index.html
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+
+li{
+    background: linear-gradient(rgba(255,0,0,.5),rgba(5, 5, 245,.5));
+    margin-left: 40px;
+    color: rgb(248, 245, 241);
+    border-radius: 30px;
+    padding: 10px;
+}
+
+
+.caja{
+        height: 80vh;
+        width: 100%;
+        display: flex; align-items: flex-end;
+}
+
+.cajita{
+    border-radius: 20px;
+    background:linear-gradient(rgba(255,0,0,.5),rgba(5, 5, 245,.5));
+    text-transform: capitalize;
+    
+}
+
+.whatsapp{
+    position: fixed;
+    bottom: 370px;
+    left: 90px;
+}
+
+main{
+    height: 100vh;
+    background-color: rgb(114, 243, 237);
+    align-items: center;
+    display: flex;
+}
+
+.paralax{
+    height: 50vh;
+    width:  80%;
+    margin: auto;
+    background: url(https://i.blogs.es/acd781/mario-kart-8-deluxe/1366_2000.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.paralax p{
+    color: bisque;
+    text-size-adjust: 30px;
+    padding: 20px;
+    }
